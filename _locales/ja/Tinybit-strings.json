@@ -1,7 +1,7 @@
 {
 
   "Tinybit.Ultrasonic_Car|block": "超音波で測定した距離 (cm)",
-  "Tinybit.Ultrasonic_CarV2|block": "micro:bit|V2|超音波で測定した距離 (cm)",
+  "Tinybit.Ultrasonic_CarV2|block": "micro：bit|V2|超音波で測定した距離 (cm)",
   "Tinybit.RGB_Car_Program|block": "車体のライト",
   "Tinybit.RGB_Car_Big|block": "ヘッドライト|色 %value",
   "Tinybit.RGB_Car_Big2|block": "ヘッドライト|赤色 %value1|緑色 %value2|青色 %value3",
