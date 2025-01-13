@@ -10,5 +10,5 @@
   "Tinybit.CarCtrl": "走行方向（速度は一定）を設定します。",
   "Tinybit.CarCtrlSpeed": "走行方向と速度（左右のモータは同一速度）を設定します。",
   "Tinybit.CarCtrlSpeed2": "走行方向と左右のモーターの速度を別々に設定します。",
-  "Tinybit.car_sport": "左右のモーターの速度を別々に設定します。",
+  "Tinybit.car_sport": "左右のモーターの速度を別々に設定します。"
 }
