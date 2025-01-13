@@ -1,0 +1,14 @@
+{
+  "Tinybit.Ultrasonic_Car": "超音波センサーで、前方の障害物までの距離(cm)を測定します。測定は５回行い、その平均距離を求めます。",
+  "Tinybit.Ultrasonic_CarV2": "超音波センサーで、前方の障害物までの距離(cm)を測定します。",
+  "Tinybit.RGB_Car_Program": "Neopixeで設定するLEDの点灯状態を、車体後部のフルカラーLEDライトに反映します。",
+  "Tinybit.RGB_Car_Big": "ヘッドライトの点灯色を、色で指定します。",
+  "Tinybit.RGB_Car_Big2": "ヘッドライトの点灯色を、RGB値で指定します。",
+  "Tinybit.Music_Car": "メロディを鳴らします。",
+  "Tinybit.Voice_Sensor": "音量センサーで、周囲の音の大きさを測定します。",
+  "Tinybit.Line_Sensor": "ラインセンサーで、ラインの状態を調べます。",
+  "Tinybit.CarCtrl": "走行方向（速度は一定）を設定します。",
+  "Tinybit.CarCtrlSpeed": "走行方向と速度（左右のモータは同一速度）を設定します。",
+  "Tinybit.CarCtrlSpeed2": "走行方向と左右のモーターの速度を別々に設定します。",
+  "Tinybit.car_sport": "左右のモーターの速度を別々に設定します。",
+}

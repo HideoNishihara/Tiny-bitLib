@@ -1,8 +1,7 @@
 {
-
-  "Tinybit.Ultrasonic_Car|block": "超音波で測定した距離 (cm)",
-  "Tinybit.Ultrasonic_CarV2|block": "micro:bit|V2|超音波で測定した距離 (cm)",
-  "Tinybit.RGB_Car_Program|block": "車体のライト",
+  "Tinybit.Ultrasonic_Car|block": "超音波で５回測定した距離の平均 (cm)",
+  "Tinybit.Ultrasonic_CarV2|block": "超音波で１回測定した距離 (cm)",
+  "Tinybit.RGB_Car_Program|block": "車体ライト",
   "Tinybit.RGB_Car_Big|block": "ヘッドライト|色 %value",
   "Tinybit.RGB_Car_Big2|block": "ヘッドライト|赤色 %value1|緑色 %value2|青色 %value3",
   "Tinybit.Music_Car|block": "メロディを鳴らす|%index",
@@ -11,6 +10,7 @@
   "Tinybit.CarCtrl|block": "走行モード１|%index",
   "Tinybit.CarCtrlSpeed|block": "走行モード２|%index|速度 %speed",
   "Tinybit.CarCtrlSpeed2|block": "走行モード３|%index|左速度 %speed1|右速度 %speed2",
+  "Tinybit.car_sport|block": "走行モード４|左速度 %sp_L|右速度 %sp_R",
 
   "Tinybit.enMusic.dadadum|block": "ダダダム",
   "Tinybit.enMusic.entertainer|block": "ジ・エンターテイナー",
@@ -53,7 +53,5 @@
   "Tinybit.CarState.Car_Right|block": "右折",
   "Tinybit.CarState.Car_Stop|block": "停止",
   "Tinybit.CarState.Car_SpinLeft|block": "左旋回",
-  "Tinybit.CarState.Car_SpinRight|block": "右旋回",
-
-  "Tinybit.car_sport|block": "車の動き|左速度 %sp_L|右速度 %sp_R"
+  "Tinybit.CarState.Car_SpinRight|block": "右旋回"
 }
